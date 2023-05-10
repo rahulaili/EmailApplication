@@ -29,8 +29,8 @@ public class Mailsender {
         properties.put("mail.smtp.port", "587");
         properties.put("mail.smtp.host", "smtp.gmail.com");
 
-        String username = "ailirahul1438@gmail.com";
-        String password = "objiugrpukowfuai";
+        String username = "Enter your mail here";
+        String password = "Generate you password in your google account";
 
 
         //session
