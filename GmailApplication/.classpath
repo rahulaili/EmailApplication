@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/tomcat/apache-tomcat-10.0.10/lib/jakartaee-migration-1.0.0-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAHUL AILI/OneDrive/Desktop/JSP/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="D:/tomcat/apache-tomcat-10.0.10/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/tomcat/apache-tomcat-10.0.10/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAHUL AILI/Downloads/jar_files (2)/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAHUL AILI/Downloads/jar_files (2)/jakarta.activation-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAHUL AILI/Downloads/jar_files (2)/jakarta.mail-2.0.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
